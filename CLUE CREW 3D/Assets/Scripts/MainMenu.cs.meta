@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ed10a57c43f3c824ab7d4ab87c557ec9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scarlett: {fileID: 4870724065535042554, guid: 1627bf0e8e0d1424cb2103c6875d5429, type: 3}
+  - mustard: {instanceID: 0}
+  - white: {instanceID: 0}
+  - green: {instanceID: 0}
+  - peacock: {instanceID: 0}
+  - plum: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
