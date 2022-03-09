@@ -10,6 +10,9 @@ TagManager:
   - Plum
   - Mustard
   - Green
+  - Suspect
+  - Weapon
+  - Room
   layers:
   - Default
   - TransparentFX
