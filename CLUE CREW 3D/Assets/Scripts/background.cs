@@ -15,6 +15,9 @@ public class background : MonoBehaviour
     void Start()
     {
         guessingSheet.GetComponent<guessSheet>().answers = new string[3]{rooms[Random.Range(0,9)], characters[Random.Range(0,5)], weapons[Random.Range(0,4)]}; 
+        guessingSheet.GetComponent<guessSheet>().player = player;
+        guessVis.transform.GetChild(0).gameObject.GetComponent<Canvas>().worldCamera = player.transform.Find("Cam").gameObject.GetComponent<Camera>();
+        guessVis.transform.GetChild(1).gameObject.GetComponent<Canvas>().worldCamera = player.transform.Find("Cam").gameObject.GetComponent<Camera>();
     }
     // Update is called once per frame
     void Update()
