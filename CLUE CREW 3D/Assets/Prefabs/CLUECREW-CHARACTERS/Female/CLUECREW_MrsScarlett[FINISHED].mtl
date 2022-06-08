@@ -1,0 +1,134 @@
+# Blender 3.1.0 MTL File: 'WhiteClothes.blend'
+# www.blender.org
+
+newmtl Default_OBJ.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl EyeMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.280628 0.412843 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl FabricForCoat.001
+Ns 159.999985
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl FabricForPants.001
+Ns 159.999985
+Ka 0.700000 0.700000 0.700000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl FabricForShirt.001
+Ns 490.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl FabricForVest.001
+Ns 159.999985
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl HairMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.052208 0.014024 0.005294
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl LeatherForShoe.001
+Ns 250.000000
+Ka 0.250000 0.250000 0.250000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl MetalForBoot.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.214041 0.214041 0.214041
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+map_Ns  ../Downloads/regular-clothes-for-vespian/source/RegularClothesRough.png
+
+newmtl Rubber.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ../Downloads/regular-clothes-for-vespian/textures/RegularClothesCol.png
+
+newmtl SkinMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.799103 0.304987 0.168269
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl TearLineMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.799103 0.304987 0.168269
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
